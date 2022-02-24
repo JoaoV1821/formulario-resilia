@@ -1,0 +1,76 @@
+body {
+    margin: 0px;
+
+}
+
+header {
+    text-align: left;
+}
+
+nav {
+    font-size: 200%;
+    font-family: 'Archivo', sans-serif;
+    text-align: left;
+    color: rgb(255, 214, 9);
+    background-color: rgb(11, 11, 11);
+    margin: 0px;
+    height: 70px;
+    ;
+}
+
+h1 {
+    margin-left: 5%;
+    margin-top: 3%;
+    font-family: 'Archivo', sans-serif;
+    font-size: 250%;
+}
+
+input {
+    border-radius: 20px;
+    font-size: larger;
+    text-indent: 9.5px;
+    height: 30px;
+    width: 400px;
+
+}
+
+form {
+    margin-left: 5%;
+    height: 90%;
+}
+
+fieldset {
+    border: 0px;
+    float: left;
+    margin-right: 1em
+}
+
+label {
+    font-family: 'Archivo', sans-serif;
+    font-size: 25px;
+    margin-top: 2.5%;
+    margin-bottom: 0.2em;
+    display: block;
+}
+
+button {
+    font-size: 20px;
+    font-family: 'Archivo', sans-serif;
+    border-radius: 20px;
+    margin: 5%;
+    margin-left: 2%;
+    background-color: rgb(255, 214, 9);
+}
+
+img {
+    margin-top: 90px;
+    margin-left: 10%;
+}
+
+
+.logo {
+    margin: 0px;
+    margin-left: 90px;
+    padding: 18px;
+
+}
